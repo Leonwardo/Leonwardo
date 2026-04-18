@@ -1,18 +1,124 @@
-# 💫 About Me:
-👋 Olá, eu sou **Leonwardo** <br><br>🚀 Apaixonado por programação desde sempre, com foco em criar soluções inovadoras e automatizadas.<br><br>💻 Atuo na área de desenvolvimento de software, e minhas habilidades incluem:<br><br>- Desenvolvimento de sites com HTML, CSS e JavaScript, criando experiências web incríveis.<br>- Criação de bots para Discord, trazendo funcionalidades e automação para servidores.<br>- Programação de servidores para FiveM, proporcionando experiências únicas em jogos multiplayer.<br>- Domínio de diversas linguagens, incluindo C++, C, C#.<br>- Experiência com bancos de dados MySQL para armazenamento e recuperação de dados eficientes.<br><br>🔧 Sempre buscando aprender e explorar novas tecnologias, estou comprometido em aprimorar minhas habilidades e contribuir para projetos de código aberto.<br><br>🌟 Vamos conectar e criar juntos! Sinta-se à vontade para explorar meus repositórios e entrar em contato para colaborações ou troca de ideias.<br><br>📫 Entre em contato:<br>- Email: [fleonwardo@gmail.com]
+<div align="center">
+<pre>
+ ██╗  ██╗██████╗  ██████╗     ██████╗ ██████╗ ██████╗ ███████╗
+ ╚██╗██╔╝██╔══██╗██╔════╝    ██╔════╝██╔═══██╗██╔══██╗██╔════╝
+  ╚███╔╝ ██║  ██║██║         ██║     ██║   ██║██████╔╝█████╗  
+  ██╔██╗ ██║  ██║██║         ██║     ██║   ██║██╔══██╗██╔══╝  
+ ██╔╝ ██╗██████╔╝╚██████╗    ╚██████╗╚██████╔╝██║  ██║███████╗
+ ╚═╝  ╚═╝╚═════╝  ╚═════╝     ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝
+</pre>
 
+<p>
+<strong>
+<code>[SYSTEM: ONLINE]</code> 
+| <code>[DEV: X DELTA CORE]</code> 
+| <code>[MODE: BUILDER]</code>
+</strong>
+</p>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/leonwardo) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_leonwardo_) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Leonward0) 
+<a href="https://xdeltacore.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=500&lines=Building+systems+that+scale.;Automating+business+with+intelligence.;Initializing+XDC+Core..." />
+</a>
+</div>
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Leonwardo&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Leonwardo&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonwardo&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<hr>
 
----
-[![](https://visitcount.itsvg.in/api?id=Leonwardo&icon=5&color=12)](https://visitcount.itsvg.in)
+<h3>📁 <code>[Workspace: /xdc/core]</code></h3>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p>
+Bem-vindo ao meu ambiente. Estou a desenvolver o <strong>X Delta Core (XDC)</strong>, um sistema completo para gestão de empresas, automação e criação de plataformas digitais com suporte a inteligência artificial.
+</p>
+
+<blockquote>
+<p><code>&gt;_</code> 🧠 Foco em <strong>sistemas inteligentes e automação empresarial</strong></p>
+<p><code>&gt;_</code> 🏗️ Desenvolvimento de <strong>dashboards completos e escaláveis</strong></p>
+<p><code>&gt;_</code> 🌐 Criação de <strong>web apps dinâmicas e plataformas SaaS</strong></p>
+</blockquote>
+
+<hr>
+
+<h3>⚙️ <code>[Stack Inicializada]</code></h3>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=3C873A"/>
+<img src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4"/>
+<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=316192"/>
+<img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/TailwindCSS-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC"/>
+<img src="https://img.shields.io/badge/Vite-0D1117?style=for-the-badge&logo=vite&logoColor=FFD62E"/>
+<img src="https://img.shields.io/badge/XAMPP-0D1117?style=for-the-badge&logo=xampp&logoColor=FB7A24"/>
+<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+<hr>
+
+<h3>🚀 <code>[Projetos em Execução]</code></h3>
+
+<table>
+<thead>
+<tr>
+<th align="left">Projeto</th>
+<th align="center">Estado</th>
+<th align="left">Descrição</th>
+</tr>
+</thead>
+
+<tbody>
+
+<tr>
+<td><strong>X Delta Core</strong></td>
+<td align="center"><code>[RUNNING]</code></td>
+<td>Sistema SaaS para gestão empresarial com dashboards, IA e criação automática de websites.</td>
+</tr>
+
+<tr>
+<td><strong>XDC Dashboard</strong></td>
+<td align="center"><code>[DEVELOPING]</code></td>
+<td>Interface central para controlo de empresas, produtos, métricas e utilizadores.</td>
+</tr>
+
+<tr>
+<td><strong>XDC AI Engine</strong></td>
+<td align="center"><code>[PLANNING]</code></td>
+<td>Módulo de inteligência artificial para análise de dados e geração de sites.</td>
+</tr>
+
+</tbody>
+</table>
+
+<p>
+<strong><code>[STATUS]:</code></strong> <code>EVOLVING</code><br>
+<strong><code>[FOCUS]:</code></strong> <code>SCALABILITY + AUTOMATION</code>
+</p>
+
+<hr>
+
+<h3>📊 <code>[System Analytics]</code></h3>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&theme=tokyo-night&hide_border=true"/>
+</div>
+
+<hr>
+
+<div align="center">
+<code>&gt;_ SYSTEM READY</code>
+</div>
