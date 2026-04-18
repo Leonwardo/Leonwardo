@@ -59,7 +59,7 @@ Bem-vindo ao meu ambiente. Estou a desenvolver o <strong>X Delta Core (XDC)</str
 <br>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonwardo&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
 <hr>
@@ -108,13 +108,13 @@ Bem-vindo ao meu ambiente. Estou a desenvolver o <strong>X Delta Core (XDC)</str
 <h3>📊 <code>[System Analytics]</code></h3>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Leonwardo&show_icons=true&theme=tokyonight&hide_border=true"/>
 </div>
 
 <br>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Leonwardo&theme=tokyo-night&hide_border=true"/>
 </div>
 
 <hr>
