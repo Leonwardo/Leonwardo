@@ -1,76 +1,83 @@
 <div align="center">
-<pre>
- ██╗  ██╗██████╗  ██████╗     ██████╗ ██████╗ ██████╗ ███████╗
- ╚██╗██╔╝██╔══██╗██╔════╝    ██╔════╝██╔═══██╗██╔══██╗██╔════╝
-  ╚███╔╝ ██║  ██║██║         ██║     ██║   ██║██████╔╝█████╗  
-  ██╔██╗ ██║  ██║██║         ██║     ██║   ██║██╔══██╗██╔══╝  
- ██╔╝ ██╗██████╔╝╚██████╗    ╚██████╗╚██████╔╝██║  ██║███████╗
- ╚═╝  ╚═╝╚═════╝  ╚═════╝     ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝
+<pre style="color:#FF2E2E;">
+ ██╗     ███████╗ ██████╗ ███╗   ██╗██╗    ██╗ █████╗ ██████╗ ██████╗  ██████╗ 
+ ██║     ██╔════╝██╔═══██╗████╗  ██║██║    ██║██╔══██╗██╔══██╗██╔══██╗██╔═══██╗
+ ██║     █████╗  ██║   ██║██╔██╗ ██║██║ █╗ ██║███████║██████╔╝██║  ██║██║   ██║
+ ██║     ██╔══╝  ██║   ██║██║╚██╗██║██║███╗██║██╔══██║██╔══██╗██║  ██║██║   ██║
+ ███████╗███████╗╚██████╔╝██║ ╚████║╚███╔███╔╝██║  ██║██║  ██║██████╔╝╚██████╔╝
+ ╚══════╝╚══════╝ ╚═════╝ ╚═╝  ╚═══╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝  ╚═════╝ 
 </pre>
 
 <p>
 <strong>
-<code>[SYSTEM: ONLINE]</code> 
-| <code>[DEV: X DELTA CORE]</code> 
-| <code>[MODE: BUILDER]</code>
+<code style="color:#FF2E2E;">[SYSTEM: ACTIVE]</code> 
+| <code style="color:#FF2E2E;">[USER: LEONWARDO]</code> 
+| <code style="color:#FF2E2E;">[ROLE: FULLSTACK DEV]</code>
+</strong>
+</p>
+
+<p>
+<strong style="color:#FF2E2E;">
+x ᴅᴇʟᴛᴀ ᴄᴏʀᴇ - ғᴏᴜɴᴅᴇʀ & ᴄʜᴀɪʀᴍᴀɴ
 </strong>
 </p>
 
 <a href="https://xdeltacore.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=500&lines=Building+systems+that+scale.;Automating+business+with+intelligence.;Initializing+XDC+Core..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=800&color=FF2E2E&center=true&vCenter=true&width=520&lines=Engineering+scalable+systems.;Building+the+future+of+business.;XDC+Core+initializing..." />
 </a>
 </div>
 
-<hr>
+<hr style="border-color:#FF2E2E;">
 
-<h3>📁 <code>[Workspace: /xdc/core]</code></h3>
+<h3>🧠 <code style="color:#FF2E2E;">[Identity]</code></h3>
 
 <p>
-Bem-vindo ao meu ambiente. Estou a desenvolver o <strong>X Delta Core (XDC)</strong>, um sistema completo para gestão de empresas, automação e criação de plataformas digitais com suporte a inteligência artificial.
+Criador do <strong>X Delta Core (XDC)</strong>, uma plataforma focada em <strong>gestão empresarial inteligente</strong>, automação e desenvolvimento de soluções digitais escaláveis.
 </p>
 
 <blockquote>
-<p><code>&gt;_</code> 🧠 Foco em <strong>sistemas inteligentes e automação empresarial</strong></p>
-<p><code>&gt;_</code> 🏗️ Desenvolvimento de <strong>dashboards completos e escaláveis</strong></p>
-<p><code>&gt;_</code> 🌐 Criação de <strong>web apps dinâmicas e plataformas SaaS</strong></p>
+<p><code>&gt;_</code> 🚀 Desenvolvimento de <strong>SaaS e sistemas empresariais</strong></p>
+<p><code>&gt;_</code> 📊 Criação de <strong>dashboards analíticos completos</strong></p>
+<p><code>&gt;_</code> 🤖 Integração de <strong>IA para automação e crescimento</strong></p>
+<p><code>&gt;_</code> 🌍 Foco em <strong>expansão global e inovação</strong></p>
 </blockquote>
 
-<hr>
+<hr style="border-color:#FF2E2E;">
 
-<h3>⚙️ <code>[Stack Inicializada]</code></h3>
+<h3>⚙️ <code style="color:#FF2E2E;">[Tech Arsenal]</code></h3>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=3C873A"/>
-<img src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4"/>
-<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=316192"/>
-<img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=FF2E2E"/>
+<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=FF2E2E"/>
+<img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=FF2E2E"/>
+<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=FF2E2E"/>
+<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=FF2E2E"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/TailwindCSS-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC"/>
-<img src="https://img.shields.io/badge/Vite-0D1117?style=for-the-badge&logo=vite&logoColor=FFD62E"/>
-<img src="https://img.shields.io/badge/XAMPP-0D1117?style=for-the-badge&logo=xampp&logoColor=FB7A24"/>
-<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=FF2E2E"/>
+<img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=FF2E2E"/>
+<img src="https://img.shields.io/badge/XAMPP-000000?style=for-the-badge&logo=xampp&logoColor=FF2E2E"/>
+<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=FF2E2E"/>
 
 </div>
 
 <br>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonwardo&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonwardo&layout=compact&theme=tokyonight&hide_border=true&title_color=FF2E2E&text_color=FFFFFF&bg_color=0D1117"/>
 </div>
 
-<hr>
+<hr style="border-color:#FF2E2E;">
 
-<h3>🚀 <code>[Projetos em Execução]</code></h3>
+<h3>🚀 <code style="color:#FF2E2E;">[Active Systems]</code></h3>
 
 <table>
 <thead>
 <tr>
-<th align="left">Projeto</th>
-<th align="center">Estado</th>
+<th align="left">Sistema</th>
+<th align="center">Status</th>
 <th align="left">Descrição</th>
 </tr>
 </thead>
@@ -79,46 +86,46 @@ Bem-vindo ao meu ambiente. Estou a desenvolver o <strong>X Delta Core (XDC)</str
 
 <tr>
 <td><strong>X Delta Core</strong></td>
-<td align="center"><code>[RUNNING]</code></td>
-<td>Sistema SaaS para gestão empresarial com dashboards, IA e criação automática de websites.</td>
+<td align="center"><code>[ONLINE]</code></td>
+<td>Ecossistema completo para gestão de empresas com automação e IA integrada.</td>
 </tr>
 
 <tr>
 <td><strong>XDC Dashboard</strong></td>
-<td align="center"><code>[DEVELOPING]</code></td>
-<td>Interface central para controlo de empresas, produtos, métricas e utilizadores.</td>
+<td align="center"><code>[BUILDING]</code></td>
+<td>Interface central com métricas, controlo de empresas e gestão de utilizadores.</td>
 </tr>
 
 <tr>
 <td><strong>XDC AI Engine</strong></td>
-<td align="center"><code>[PLANNING]</code></td>
-<td>Módulo de inteligência artificial para análise de dados e geração de sites.</td>
+<td align="center"><code>[LOADING]</code></td>
+<td>Sistema inteligente para geração de websites e análise de performance.</td>
 </tr>
 
 </tbody>
 </table>
 
 <p>
-<strong><code>[STATUS]:</code></strong> <code>EVOLVING</code><br>
-<strong><code>[FOCUS]:</code></strong> <code>SCALABILITY + AUTOMATION</code>
+<strong><code>[SYSTEM STATUS]:</code></strong> <code style="color:#FF2E2E;">EVOLVING</code><br>
+<strong><code>[MISSION]:</code></strong> <code>BUILD. SCALE. DOMINATE.</code>
 </p>
 
-<hr>
+<hr style="border-color:#FF2E2E;">
 
-<h3>📊 <code>[System Analytics]</code></h3>
+<h3>📡 <code style="color:#FF2E2E;">[Live Metrics]</code></h3>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Leonwardo&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Leonwardo&show_icons=true&theme=tokyonight&hide_border=true&title_color=FF2E2E&icon_color=FF2E2E&text_color=FFFFFF&bg_color=0D1117"/>
 </div>
 
 <br>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Leonwardo&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Leonwardo&bg_color=0D1117&color=FF2E2E&line=FF2E2E&point=FFFFFF&area=true&hide_border=true"/>
 </div>
 
-<hr>
+<hr style="border-color:#FF2E2E;">
 
 <div align="center">
-<code>&gt;_ SYSTEM READY</code>
+<code style="color:#FF2E2E;">&gt;_ XDC CORE READY</code>
 </div>
