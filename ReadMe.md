@@ -147,9 +147,3 @@ A visão é desenvolver um <strong>ecossistema unificado</strong> onde empresas 
 <div align="center">
 <code style="color:#FF2E2E;">&gt;_ XDC NETWORK READY</code>
 </div>
-
-<hr style="border-color:#FF2E2E;">
-
-<div align="center">
-<code style="color:#FF2E2E;">&gt;_ XDC CORE READY</code>
-</div>
