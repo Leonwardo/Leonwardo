@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.imgur.com/your-xdc-logo.png" width="120"/>
+<img src="/xdc-Black" width="120"/>
 
 <pre style="color:#FF2E2E;">
  ██╗     ███████╗ ██████╗ ███╗   ██╗██╗    ██╗ █████╗ ██████╗ ██████╗  ██████╗ 
