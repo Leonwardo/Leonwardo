@@ -1,0 +1,100 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --accent: #C41E3A;
+  --accent-light: #E63950;
+  --gold: #C9A227;
+  --surface: #0A0A0B;
+  --surface-elevated: #121214;
+  --surface-card: #18181B;
+}
+
+html.light {
+  --surface: #F8F7F4;
+  --surface-elevated: #FFFFFF;
+  --surface-card: #FFFFFF;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--surface);
+  color: #f4f4f5;
+  overflow-x: hidden;
+}
+
+html.light body {
+  color: #18181b;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: #333;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--accent);
+}
+
+html.light ::-webkit-scrollbar-thumb {
+  background: #ccc;
+}
+
+/* Selection */
+::selection {
+  background: var(--accent);
+  color: white;
+}
+
+/* Utility classes */
+.gradient-text {
+  background: linear-gradient(135deg, #fff 0%, #C41E3A 50%, #C9A227 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+html.light .gradient-text {
+  background: linear-gradient(135deg, #18181b 0%, #C41E3A 50%, #A6851E 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.glass {
+  background: rgba(24, 24, 27, 0.6);
+  backdrop-filter: blur(16px);
+  border: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+html.light .glass {
+  background: rgba(255, 255, 255, 0.7);
+  border: 1px solid rgba(0, 0, 0, 0.06);
+}
+
+.section-padding {
+  @apply px-6 md:px-12 lg:px-24 py-24 md:py-32;
+}
+
+/* Canvas for 3D */
+.canvas-container {
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  pointer-events: none;
+}
+
+/* Loader */
+.loader-bar {
+  transform-origin: left;
+}

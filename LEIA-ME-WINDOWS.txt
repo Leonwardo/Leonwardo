@@ -1,0 +1,25 @@
+========================================
+  LEONWARDO PORTFOLIO - WINDOWS
+========================================
+
+IMPORTANTE: Nao uses a pasta Downloads.
+
+1. Extrai este ZIP para:
+   C:\dev\leonwardo-portfolio
+
+2. Faz duplo clique em start.bat
+
+Se aparecer erro de "politica de Controlo
+de Aplicacoes" ou "rollup-win32":
+
+A) Move a pasta para C:\dev\
+B) Abre o start.bat outra vez
+C) Se continuar:
+   - Vai a node_modules\@rollup\rollup-win32-x64-msvc\
+   - Propriedades do ficheiro .node
+   - Marca "Desbloquear" se aparecer
+
+Depois de funcionar:
+  npm run build
+  → a pasta dist/ e a que sobes para a Hostinger
+========================================

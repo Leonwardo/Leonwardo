@@ -1,0 +1,156 @@
+export type Lang = 'en' | 'pt'
+
+export const translations = {
+  en: {
+    nav: {
+      about: 'About',
+      skills: 'Skills',
+      work: 'Work',
+      xdc: 'X Delta Core',
+      contact: 'Contact',
+    },
+    hero: {
+      tag: 'Full-stack Developer · Founder',
+      title1: 'I build the systems',
+      title2: 'businesses grow into.',
+      subtitle: 'Backend specialist focused on enterprise platforms, APIs and intelligent automation. Founder of X Delta Core.',
+      cta1: 'Explore work',
+      cta2: 'Discover X Delta Core',
+    },
+    about: {
+      label: '01 — About',
+      title: 'Code with purpose.',
+      p1: 'I am Leonardo Charraz Forte — known online as Leonwardo. A full-stack developer with deep specialization in backend engineering: PHP, SQL, robust APIs and the systems that keep companies running.',
+      p2: 'I design and build complete digital infrastructures that turn manual processes into efficient, scalable operations. From custom management systems to automation powered by AI, my focus is always the same: deliver real productivity gains.',
+      p3: 'My long-term vision lives inside X Delta Core — the company I am building to help businesses digitalize, automate and scale with technical excellence.',
+    },
+    skills: {
+      label: '02 — Expertise',
+      title: 'What I actually build',
+      items: [
+        { title: 'Backend & APIs', desc: 'PHP, SQL, RESTful services, authentication, business logic and high-reliability data layers.' },
+        { title: 'Enterprise Systems', desc: 'Custom CRMs, dashboards, internal tools and management platforms tailored to real company workflows.' },
+        { title: 'Full-stack Web', desc: 'React, HTML, modern frontend layered on solid backend foundations. Clean, fast and maintainable.' },
+        { title: 'Automation & AI', desc: 'Process automation, intelligent workflows and AI-assisted improvements that reduce manual work.' },
+      ],
+      tech: 'Core technologies',
+    },
+    work: {
+      label: '03 — Selected Work',
+      title: 'Capability in action',
+      note: 'Public case studies are growing. Below are the types of systems I design and deliver.',
+      cards: [
+        { title: 'Enterprise Management Platforms', tag: 'Systems', desc: 'Complete internal tools for operations, reporting and process control.' },
+        { title: 'Custom APIs & Integrations', tag: 'Backend', desc: 'Secure, well-structured APIs that connect systems and enable automation.' },
+        { title: 'Business Web Platforms', tag: 'Full-stack', desc: 'Modern websites and portals built for performance and clarity.' },
+        { title: 'XDC Core Platform', tag: 'X Delta Core', desc: 'The foundational infrastructure powering the X Delta Core vision.' },
+      ],
+    },
+    xdc: {
+      label: '04 — X Delta Core',
+      title: 'Digital engineering for growth.',
+      subtitle: 'From the first idea to a complete digital operation: strategy, design, software and automation in one technical partner.',
+      vision: 'We engineer the digital systems your business will grow into.',
+      cta: 'Visit xdeltacore.com',
+      points: [
+        { title: 'Strategy to Scale', desc: 'Not just code — complete systems that evolve with the company.' },
+        { title: 'Automation First', desc: 'Reduce friction, eliminate manual processes, increase productivity.' },
+        { title: 'Technical Excellence', desc: 'Backend depth, clean architecture and long-term maintainability.' },
+      ],
+    },
+    contact: {
+      label: '05 — Contact',
+      title: 'Let’s build something solid.',
+      subtitle: 'Whether you need a system for your company or want to explore a partnership with X Delta Core, I am ready to talk.',
+      form: {
+        name: 'Name',
+        email: 'Email',
+        message: 'Message',
+        send: 'Send message',
+        sending: 'Sending…',
+        success: 'Message sent. I will reply soon.',
+      },
+      or: 'or reach me directly',
+    },
+    footer: {
+      rights: '© 2026 Leonwardo. All rights reserved.',
+      built: 'Built with precision.',
+    },
+  },
+  pt: {
+    nav: {
+      about: 'Sobre',
+      skills: 'Competências',
+      work: 'Trabalhos',
+      xdc: 'X Delta Core',
+      contact: 'Contacto',
+    },
+    hero: {
+      tag: 'Full-stack Developer · Fundador',
+      title1: 'Construo os sistemas',
+      title2: 'para onde as empresas crescem.',
+      subtitle: 'Especialista em backend focado em plataformas empresariais, APIs e automação inteligente. Fundador da X Delta Core.',
+      cta1: 'Explorar trabalhos',
+      cta2: 'Conhecer a X Delta Core',
+    },
+    about: {
+      label: '01 — Sobre',
+      title: 'Código com propósito.',
+      p1: 'Sou Leonardo Charraz Forte — conhecido online como Leonwardo. Programador full-stack com especialização profunda em engenharia de backend: PHP, SQL, APIs robustas e os sistemas que mantêm as empresas a funcionar.',
+      p2: 'Desenho e construo infraestruturas digitais completas que transformam processos manuais em operações eficientes e escaláveis. Desde sistemas de gestão personalizados até automação com IA, o foco é sempre o mesmo: ganhos reais de produtividade.',
+      p3: 'A minha visão a longo prazo vive dentro da X Delta Core — a empresa que estou a construir para ajudar negócios a digitalizar, automatizar e escalar com excelência técnica.',
+    },
+    skills: {
+      label: '02 — Expertise',
+      title: 'O que construo de verdade',
+      items: [
+        { title: 'Backend & APIs', desc: 'PHP, SQL, serviços RESTful, autenticação, lógica de negócio e camadas de dados de alta fiabilidade.' },
+        { title: 'Sistemas Empresariais', desc: 'CRMs, dashboards, ferramentas internas e plataformas de gestão adaptadas aos fluxos reais das empresas.' },
+        { title: 'Full-stack Web', desc: 'React, HTML e frontend moderno assente em fundações de backend sólidas. Limpo, rápido e sustentável.' },
+        { title: 'Automação & IA', desc: 'Automação de processos, workflows inteligentes e melhorias assistidas por IA que reduzem trabalho manual.' },
+      ],
+      tech: 'Tecnologias principais',
+    },
+    work: {
+      label: '03 — Trabalhos Selecionados',
+      title: 'Capacidade em ação',
+      note: 'Os case studies públicos estão a crescer. Abaixo estão os tipos de sistemas que desenho e entrego.',
+      cards: [
+        { title: 'Plataformas de Gestão Empresarial', tag: 'Sistemas', desc: 'Ferramentas internas completas para operações, reporting e controlo de processos.' },
+        { title: 'APIs & Integrações Custom', tag: 'Backend', desc: 'APIs seguras e bem estruturadas que ligam sistemas e permitem automação.' },
+        { title: 'Plataformas Web Empresariais', tag: 'Full-stack', desc: 'Sites e portais modernos construídos para performance e clareza.' },
+        { title: 'XDC Core Platform', tag: 'X Delta Core', desc: 'A infraestrutura fundamental que sustenta a visão da X Delta Core.' },
+      ],
+    },
+    xdc: {
+      label: '04 — X Delta Core',
+      title: 'Engenharia digital para crescimento.',
+      subtitle: 'Da primeira ideia a uma operação digital completa: estratégia, design, software e automação num único parceiro técnico.',
+      vision: 'Engenheiramos os sistemas digitais para onde o teu negócio vai crescer.',
+      cta: 'Visitar xdeltacore.com',
+      points: [
+        { title: 'Estratégia até à Escala', desc: 'Não apenas código — sistemas completos que evoluem com a empresa.' },
+        { title: 'Automação em primeiro lugar', desc: 'Reduzir fricção, eliminar processos manuais, aumentar produtividade.' },
+        { title: 'Excelência Técnica', desc: 'Profundidade de backend, arquitetura limpa e manutenibilidade a longo prazo.' },
+      ],
+    },
+    contact: {
+      label: '05 — Contacto',
+      title: 'Vamos construir algo sólido.',
+      subtitle: 'Se precisas de um sistema para a tua empresa ou queres explorar uma parceria com a X Delta Core, estou pronto para conversar.',
+      form: {
+        name: 'Nome',
+        email: 'Email',
+        message: 'Mensagem',
+        send: 'Enviar mensagem',
+        sending: 'A enviar…',
+        success: 'Mensagem enviada. Respondo em breve.',
+      },
+      or: 'ou contacta-me diretamente',
+    },
+    footer: {
+      rights: '© 2026 Leonwardo. Todos os direitos reservados.',
+      built: 'Construído com precisão.',
+    },
+  },
+} as const
