@@ -3,11 +3,29 @@ chcp 65001 >nul
 title Leonwardo Portfolio
 color 0A
 
+:: ============================================
+:: CRITICAL: go to the folder where this .bat lives
+:: ============================================
+cd /d "%~dp0"
+
 echo.
 echo  ============================================
-echo   Leonwardo Portfolio - Setup & Start
+echo   Leonwardo Portfolio - Setup
 echo  ============================================
 echo.
+echo  Pasta atual: %CD%
+echo.
+
+:: Safety check
+if not exist "package.json" (
+  echo  [ERRO] package.json nao encontrado nesta pasta.
+  echo  Extrai o ZIP completo e corre o start.bat
+  echo  de dentro da pasta leonwardo-portfolio.
+  echo.
+  echo  Pasta atual: %CD%
+  pause
+  exit /b 1
+)
 
 :: Check Node
 where node >nul 2>nul
@@ -28,7 +46,8 @@ echo  [2/4] A instalar dependencias...
 call npm install
 if %errorlevel% neq 0 (
   echo.
-  echo  [ERRO] npm install falhou. Verifica a internet.
+  echo  [ERRO] npm install falhou.
+  echo  Verifica a internet e tenta outra vez.
   pause
   exit /b 1
 )
@@ -71,9 +90,6 @@ if %errorlevel% neq 0 (
   echo     - Se aparecer "Desbloquear", marca e Aplica
   echo.
   echo  4. Corre de novo este start.bat
-  echo.
-  echo  Alternativa: move o projeto para C:\dev\
-  echo  e tenta outra vez.
   echo.
 )
 pause
